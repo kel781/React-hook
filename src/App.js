@@ -68,6 +68,7 @@ function App() {
       posterURL:
         "https://i.pinimg.com/474x/60/64/72/606472e346dc3ed91d0154bea68dc414.jpg",
       rating: 9,
+      trailer:"https://www.youtube.com/embed/C_j3N9aW5ms",
     },
   ]);
 
