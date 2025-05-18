@@ -50,6 +50,8 @@ function App() {
       posterURL:
         "https://i.pinimg.com/474x/2d/3c/a5/2d3ca5ff4e05d486dac522d9ea28bc01.jpg",
       rating: 9,
+      trailer:"https://www.youtube.com/embed/C_j3N9aW5ms",
+    },
     },
     {
       title: "Avengers:EndGame",
