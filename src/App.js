@@ -42,6 +42,7 @@ function App() {
       posterURL:
         "https://i.pinimg.com/474x/76/a2/f3/76a2f33fb46fe417cecfeaa1d57ef611.jpg",
       rating: 7,
+      trailer:"https://www.youtube.com/embed/9VoNgLnjzVg",
     },
     {
       title: "Solo Leveling:Awekening",
@@ -50,7 +51,7 @@ function App() {
       posterURL:
         "https://i.pinimg.com/474x/2d/3c/a5/2d3ca5ff4e05d486dac522d9ea28bc01.jpg",
       rating: 9,
-      trailer:"https://www.youtube.com/embed/C_j3N9aW5ms",
+      trailer:"https://www.youtube.com/embed/O_yyWLW0fRQ",
     },
     },
     {
@@ -60,6 +61,7 @@ function App() {
       posterURL:
         "https://i.pinimg.com/474x/88/04/ee/8804ee76e489470454f315f7d0b4cff5.jpg",
       rating: 8,
+      trailer:"https://www.youtube.com/embed/TcMBFSGVi1c",
     },
     {
       title: "Ronald The Barbarian",
